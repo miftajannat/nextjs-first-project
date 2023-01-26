@@ -1,6 +1,5 @@
 import { ImFacebook, ImTwitter, ImYoutube } from "react-icons/im";
 
-import Link from "next/link";
 
 function header() {
   return (

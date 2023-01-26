@@ -34,7 +34,7 @@ function Slide() {
     <div className='grid md:grid-cols-2'>
       <div className='image'>
         <a href={"/"}>
-          <Image src={"/images/img1.jpg"} alt='' width={600} height={600} />{" "}
+          <Image src={"/images/img1.jpg"} alt='' width={600} height={600} />
         </a>
       </div>
       <div className='info flex justify-center flex-col'>
